@@ -43,57 +43,43 @@
 
 <img src="imgs\img17.PNG" width="600px"  height="300px" />
 
+## Enhanced Fan Out
+
 <img src="imgs\img18.PNG" width="600px"  height="300px" />
 
 <img src="imgs\img19.PNG" width="600px"  height="300px" />
 
-<img src="imgs\img20.PNG" width="600px"  height="300px" />
+## Kinesis Scaling
 
--
+<img src="imgs\img20.PNG" width="600px"  height="300px" />
 
 <img src="imgs\img21.PNG" width="600px"  height="300px" />
 
--
-
 <img src="imgs\img22.PNG" width="600px"  height="300px" />
-
--
 
 <img src="imgs\img23.PNG" width="600px"  height="300px" />
 
--
+## Kinesis Security
 
 <img src="imgs\img24.PNG" width="600px"  height="300px" />
 
--
+## Kinesis Firehose
 
 <img src="imgs\img25.PNG" width="600px"  height="300px" />
 
--
-
 <img src="imgs\img26.PNG" width="600px"  height="300px" />
-
--
 
 <img src="imgs\img27.PNG" width="600px"  height="300px" />
 
--
-
 <img src="imgs\img28.PNG" width="600px"  height="300px" />
-
--
 
 <img src="imgs\img29.PNG" width="600px"  height="300px" />
 
--
+## Hands on Kinesis Firehose
 
 <img src="imgs\img30.PNG" width="600px"  height="300px" />
 
--
-
 <img src="imgs\img31.PNG" width="600px"  height="300px" />
-
--
 
 <img src="imgs\img32.PNG" width="600px"  height="300px" />
 
